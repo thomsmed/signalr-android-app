@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SignalR Client</string>
+    <string name="join_private">Join Private</string>
+    <string name="message">Message</string>
+    <string name="send">Send</string>
+    <string name="connected">Connected!</string>
+    <string name="connection_failed">Failed to connect...</string>
+    <string name="leave_private">Leave private</string>
+</resources>
